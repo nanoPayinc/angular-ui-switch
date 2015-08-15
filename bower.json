@@ -1,11 +1,11 @@
 {
-  "name": "angular-ui-switch",
+  "name": "np-uiswitch",
   "version": "0.1.0",
   "main": ["angular-ui-switch.js", "angular-ui-switch.css"],
   "authors": [
     "xpeper <xpepermint@gmail.com>"
   ],
-  "description": "iOS 7 style switch directive for AngularJS",
+  "description": "nanoPay port of https://github.com/xpepermint/angular-ui-switch",
   "keywords": [
     "angular",
     "angularjs",
