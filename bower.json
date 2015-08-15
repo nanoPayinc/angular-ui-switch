@@ -5,7 +5,7 @@
   "authors": [
     "xpeper <xpepermint@gmail.com>"
   ],
-  "description": "nanoPay port of https://github.com/xpepermint/angular-ui-switch",
+  "description": "iOS 7 style switch directive for AngularJS",
   "keywords": [
     "angular",
     "angularjs",
@@ -19,7 +19,7 @@
     "form"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/xpepermint/angular-ui-switch",
+  "homepage": "https://github.com/nanoPayinc/angular-ui-switch",
   "ignore": [
     "**/.*",
     "node_modules",
